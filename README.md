@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science, quantum computing, game dev.
 - 🌱 I’m currently learning computer science and its concepts
 - 💞️ I’m looking to learning things through experience
-- 📫 How to reach me:
+- 📫 How to reach me: 
        Instagram: peterv._
        Email: mysteryv17@gmail.com, paritv2003@gmail.com
 <!---
