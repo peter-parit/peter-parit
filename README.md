@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Peter
-- 👀 I’m interested in data science, quantum computing, game dev.
+- 👀 I’m interested in data science, quantum computing, game dev, and more.
 - 🌱 I’m currently studying computer science.
-- 💞️ I’m looking to learning things through experience.
 - 📫 How to reach me:
 
   Instagram: peterv._
