@@ -1,11 +1,12 @@
-- 👋 Hi, I’m Peter
-- 👀 I’m interested in data science, quantum computing, game dev, and more.
-- 🌱 I’m currently studying computer science.
-- 📫 How to reach me:
+Hey! My name is Parit Vacharaskunee, or Peter! Interested in data science, machine learning, and more!  Would love to learn more about anything 😃 
 
-  Instagram: peterv._
+**Get in touch with me on:**
+
+  - Instagram: peterv._
   
-  Email: paritv2003@gmail.com
+  - Email:
+      - paritv2003@gmail.com
+      - paritvach@gmail.com
 <!---
 peter-parit/peter-parit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
