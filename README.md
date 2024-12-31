@@ -5,7 +5,7 @@
 
   Instagram: peterv._
   
-  Email: mysteryv17@gmail.com, paritv2003@gmail.com
+  Email: paritv2003@gmail.com
 <!---
 peter-parit/peter-parit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
